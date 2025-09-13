@@ -10,12 +10,12 @@ html,
 body {
   height: 100%;
   width: 100%;
-  color: white;
+  color: #F5F5F5;
 }
 #main {
   height: 100%;
   width: 100%;
-  background-color: black;
+  background-color: #0F111A;
 }
 #nav{
   align-items: center;
@@ -52,7 +52,7 @@ body {
 }
 
 #main h1:nth-child(2){
-  margin-top: 22vh;
+  margin-top: 20vh;
   padding-left: 10%;
 }
 #main h1:nth-child(3){
